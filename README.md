@@ -1,1 +1,1 @@
-#Cryptocurrency Data Analysis and Reporting with Email Notification
+#CRYPTOCURRENCY DATA ANALYSIS AND REPORTING WITH EMAIL NOTIFICATION
